@@ -45,7 +45,7 @@ dependencies:
   path: any
   sqflite: any
   font_awesome_flutter: any
-  google_fonts: any
+  google_fonts: ^5.1.0
 
 
 dev_dependencies:
